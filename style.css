@@ -1,0 +1,53 @@
+h2 {color: black;} 
+header {color: black;
+display: flex; 
+width: 100%;}
+header h1 { flex-grow: 0;
+}
+
+
+#selfie { float: left;
+    max-width: 15%;
+    height: auto;
+    margin-right: 20px;
+  }
+#job {max-width: 35%;
+  height: auto;
+  margin: auto;
+  display: block;}
+
+#ass { 
+    max-width: 20%;
+    height: auto;
+   margin: auto;
+   display: block;
+  }
+h3 {color: black; }
+P { text-align: center }
+H3 { text-align: center }
+H2 { text-align: center }
+H1 { text-align: center }5
+ul { text-align: center }
+li { text-align: center } 
+a { text-align: center }
+
+
+#m {border-top: 2px solid white;
+  }
+
+
+
+#middle {background-color: #71BC78; 
+width: 65%;
+margin: 0 auto;
+border: solid 25px #71BC78;
+}
+#mid {background-color:#71BC78 ; 
+    width:65%;
+    margin: auto;
+    border: solid 25px #71BC78;
+    
+   }
+   
+    
+ body {background-color: #006400 } 
